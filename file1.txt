@@ -10,3 +10,5 @@
 10. git branch -d branch1; git commit -m "delete branch1"; git push;
 
 change1
+
+change2
